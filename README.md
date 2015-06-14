@@ -51,6 +51,7 @@
 * HackerEarth http://engineering.hackerearth.com/
 * Harry's http://engineering.harrys.com/
 * Heroku http://engineering.heroku.com/
+* Helpshift https://engineering.helpshift.com/
 * Honeybadger http://blog.honeybadger.io/
 * Hoteltonight http://engineering.hoteltonight.com/
 * Indeed http://engineering.indeed.com/blog/
